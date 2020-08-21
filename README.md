@@ -1,4 +1,4 @@
-Configure the Test Payment Gateway Adapter for Salesforce Billing [Github Readme]
+Configure the Test Payment Gateway Adapter for Salesforce Billing
 
 We've made it easier for you to test/demonstrate Salesforce Billing Payment capabilities without connecting to actual gateway endpoint. Previously, demonstrating or testing Salesforce Billing payment features required a connection to a payment gateway. However, gateway connections sometimes failed if you didn't have access to a fully-implemented payment gateway adapter. You can now configure a test gateway adapter that passes payment information to a test payment gateway built only for demonstrations. 
 
